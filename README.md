@@ -10,6 +10,11 @@ To use this script see the short guide `Change-OLED-Display.md`
 - `Change-OLED.md` - Change the OLED display on the MiniTower
 - `Overclock-MiniTower.md` - Overclock MiniTower
 - `How-To-Test-WiFi-Adapters-On-Kali.md` - How to test Wi-Fi adapters for use with Kali Linux
+- `Add-CPU-Temp-To-OLED-Display.md` - How to change the top line of the OLED display to show the CPU temperature
+- `Secure-Password-Guidelines.md` - Guidelines for creating and using secure passwords
+- `sysinfo-net-w-temp.py` - Python script for OLED display - The one the MiniTower ships with
+
+- `3.5-lcd-model-NOTE.md` - A not for 3.5" LCD Model MiniTower only
 
 ### Please follow this repository for future updates.  If you need support please [create an issue](https://github.com/cryptomiles-dev/Parrot-Security-MiniTower/issues/new/choose)  
 
