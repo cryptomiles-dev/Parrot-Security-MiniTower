@@ -1,10 +1,12 @@
 
+ 
 
-
-The device can be easily updated/upgraded using the standard Kali update/upgrade commands.  
+Parrot OS can be easily upgraded using the following commands.  Note we use   
+`apt parrot-upgrade` instead of `apt upgrade` as  Parrot OS has its own upgrade wrapper for apt.  
+ 
 
 `sudo apt update`  
-`sudo apt upgrade -y` 
+`sudo apt parrot-upgrade -y` 
 
 After this the system is fully updated.  
 
