@@ -6,8 +6,8 @@ Parrot OS can be easily upgraded using the following commands.  Note we use
  
 
 `sudo apt update`  
-`sudo apt parrot-upgrade -y` 
-
+`sudo parrot-upgrade -y` 
+Run this ^ command twice.
 After this the system is fully updated.  
 
 If you would like to see which packages will be upgraded before upgrading them:  
