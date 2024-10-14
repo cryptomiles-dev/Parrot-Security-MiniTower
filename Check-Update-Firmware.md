@@ -18,7 +18,7 @@ to reboot afterwards.
 
 `sudo raspi-config`
 Scroll down to `Advanced`
-Scroll down to `Boot Loader`
+Scroll down to `Bootloader version`
 Select `Latest`
 
 When finished if not prompted to reboot
