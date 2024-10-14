@@ -17,7 +17,7 @@ sudo nano /etc/systemd/system/minitower_oled.service
 ```
 Change the following line:  
 `ExecStart=sudo /bin/bash -c '/usr/bin/python3 /usr/local/minitower/sysinfo-net-w-temp.py'`  
-Change only `sysinfo-net.py` to `sysinfo-2.py`  
+Change only `sysinfo-net.py` to `sysinfo-net-w-temp.py`  
 The line should look like this.  You can copy and paste it.   **The tick marks are included**
 `ExecStart=sudo /bin/bash -c '/usr/bin/python3 /usr/local/minitower/sysinfo-net-w-temp.py'`  
 
