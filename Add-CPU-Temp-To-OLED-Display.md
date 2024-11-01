@@ -27,3 +27,14 @@ Start the `minitower_oled` service
 `sudo systemctl start minitower_oled.service`
 Just to be certain make sure it is enabled (starts at boot)
 `sudo systemctl enable minitower_oled.service`
+
+
+---
+
+If you do not want the whole repo and only want the CPU temperature python script then you can download just the CPU temperature python script using `wget`.  To do this replace step 1. with the following:  
+```  
+wget https://raw.githubusercontent.com/cryptomiles-dev/Parrot-Security-MiniTower/refs/heads/main/sysinfo-net-w-temp.py   
+chmod +x sysinfo-net-w-temp.py
+sudo cp sysinfo-net-w-temp.py /usr/local/minitower
+```
+Then proceed to step 2. above.
