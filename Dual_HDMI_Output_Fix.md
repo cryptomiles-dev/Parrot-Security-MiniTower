@@ -3,7 +3,7 @@
 This fix consists of two commands and a reboot.   Both of these commands are used to change a configuration file.    
 
 - Open a terminal window
-- Copy and paste the following two commands into your terminal window then press enter
+- Copy and paste the following two commands into your terminal window one at a time then press enter
 
 `sudo sed -i '/^#\?dtoverlay=vc4-kms-v3d/d' /boot/config.txt`
 
