@@ -4,6 +4,7 @@ This fix consists of two commands and a reboot.   Both of these commands are use
 
 - Open a terminal window
 - Copy and paste the following two commands into your terminal window then press enter
+
 `sudo sed -i '/^#\?dtoverlay=vc4-kms-v3d/d' /boot/config.txt`
 
 `sudo sed -i '/^# Enable DRM VC4 V3D driver/a dtoverlay=vc4-fkms-v3d' /boot/config.txt`  
