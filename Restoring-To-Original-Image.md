@@ -1,8 +1,10 @@
 
 
 Included on the USB drive is a copy of the original image the device shipped with.   If you want to revert back to how the device was when you first got it then flash the MicroSd card (or other MicroSd card at least 32GB).
-
 To do this you can use Raspberry Pi Imager from a Windows or Mac computer, or use the any Linux distribution.  
+
+**NOTE** In this guide I use `parrot-minitower-restore.img.xz` but the image you recieve may have a slightly different name.    
+If the restore image you recived has a different name then in the commands below replace `parrot-minitower-restore.img.xz` with the name of your restore image (make sure to include the `.img.xz` extension)   
 
 ## To use Raspberry Pi Imager:  
 
