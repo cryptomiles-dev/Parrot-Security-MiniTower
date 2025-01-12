@@ -30,3 +30,9 @@ Thats it!  Now just insert the MicroSD card into the MiniTower and boot it up.
 3. Write the image  
 `sudo dd if=parrot-minitower-restore.img.xz of=/dev/sdX bs=4M status=progress && sync`
 	Replace `/dev/sdX` with the correct location discovered in step 2 for example `/dev/sda`
+
+
+
+
+
+``
