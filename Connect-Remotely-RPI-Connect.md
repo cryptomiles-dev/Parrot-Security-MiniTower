@@ -1,6 +1,4 @@
 
-
-
 # Remote access with Raspberry Pi Connect
 
 You can access a Raspberry Pi remotely from a browser on another device using Raspberry Pi Connect. Connect handles configuration automatically, so you don’t have to find your Raspberry Pi’s local IP address, your network’s public IP address, or modify your local network firewall to enable external access.
