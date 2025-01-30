@@ -1,5 +1,7 @@
 
 
+**NOTE:** This fix is for 3.5" touchscreen models only.
+
 This fix consists of two commands and a reboot.   Both of these commands are used to change a configuration file.    
 
 - Open a terminal window
